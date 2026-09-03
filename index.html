@@ -395,14 +395,18 @@ If you do not use Cash App, you can donate through Gumroad by entering any amoun
     </p>
   </article>
 
-  <article>
-    <h4>Microsoft 365 Multi-Day Authentication Failure</h4>
-    <p>
-      A core authentication misconfiguration caused cascading failures across Outlook,
-      Exchange Online, Teams, SharePoint, Copilot, Defender XDR, Universal Print, and Admin Center.
-      The outage lasted multiple days and required staged recovery across global tenants.
-    </p>
-  </article>
+<article>
+  <h4>Microsoft 365 Multi-Day Authentication Failure</h4>
+  <p>
+    A core authentication misconfiguration caused cascading failures across Outlook,
+    Exchange Online, Teams, SharePoint, Copilot, Defender XDR, Universal Print, and Admin Center.
+    The outage lasted multiple days and required staged recovery across global tenants.
+    Although the root cause was not a CDN issue, the failure produced symptoms that
+    <strong>mimicked CDN rerouting behavior</strong>, including inconsistent regional service states,
+    client retry storms, and propagation patterns resembling edge-node drift.
+  </p>
+</article>
+
 
 </section>
 
