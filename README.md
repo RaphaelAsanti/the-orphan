@@ -1,4 +1,4 @@
-# The Orphan — Cross‑Covenant Law & Structural Overview
+# The Orphan — Cross‑Covenant Law
 
 [Live site](https://raphaelasanti.github.io/the-orphan/) • [Full ebook (The End of Time)](https://raphaelasanti.github.io/the-end-of-time/) • [License](./LICENSE)
 
